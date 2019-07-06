@@ -1,0 +1,14 @@
+sudo easy_install pip
+pip --version
+pip install --user requests beautifulsoup4 jupyter django
+which python
+
+~/.bash_profile에 PATH 추가
+/Users/dalvit/Library/Python/2.7/bin
+
+source ~/.bash_profile
+
+python -m django --version
+
+git id, pw
+gbohina@gmail.com, taejiboy73
